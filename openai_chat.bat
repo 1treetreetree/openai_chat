@@ -1,1 +1,1 @@
-pip install pipreqs & pip install -r requirements.txt & python openai_chat.py
+pip install pipreqs & pip install -r requirements.txt & py openai_chat.py
