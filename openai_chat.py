@@ -3,7 +3,7 @@ import datetime
 
 openai.api_key_path = "openai_api_key.txt"
 
-# params
+# params (EDIT ME)
 model = "gpt-3.5-turbo"
 echo = False
 role_of_assistant = "You are a helpful assistant."
